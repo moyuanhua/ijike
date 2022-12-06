@@ -49,7 +49,7 @@ export default function Home() {
           fontSize: '0.9rem'
         }}>
           <a
-            href="https://beian.miit.gov.cn/#/Integrated/recordQuery"
+            href="https://beian.miit.gov.cn/"
             target="_blank"
             rel="noopener noreferrer"
           >
