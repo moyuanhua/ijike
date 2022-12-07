@@ -23,7 +23,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>博客 &rarr;</h2>
+            <h2>技术分享 &rarr;</h2>
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
@@ -50,8 +50,7 @@ export default function Home() {
         }}>
           <a
             href="https://beian.miit.gov.cn/"
-            target="_blank"
-            rel="noopener noreferrer"
+            target="_blank" rel="noreferrer"
           >
             湘ICP备18001866号-1
           </a>
